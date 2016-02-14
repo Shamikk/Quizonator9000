@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizonator.Lib", "Quizonator.Lib\Quizonator.Lib.csproj", "{96ED6F5C-A17C-4457-9839-F02031DD7BFF}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Quizonator.MVC", "Quizonator.MVC\Quizonator.MVC.xproj", "{90106986-02C7-46E3-858B-15063AAFB60B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizonator.MVC4", "Quizonator.MVC4\Quizonator.MVC4.csproj", "{3D9E6BEC-A6C6-4C67-822F-807089D52E8E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizonator.Lib.Tests", "Quizonator.Lib.Tests\Quizonator.Lib.Tests.csproj", "{3DF9346E-6943-41E6-B178-52691F92B346}"
@@ -21,10 +19,6 @@ Global
 		{96ED6F5C-A17C-4457-9839-F02031DD7BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96ED6F5C-A17C-4457-9839-F02031DD7BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96ED6F5C-A17C-4457-9839-F02031DD7BFF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90106986-02C7-46E3-858B-15063AAFB60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90106986-02C7-46E3-858B-15063AAFB60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90106986-02C7-46E3-858B-15063AAFB60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90106986-02C7-46E3-858B-15063AAFB60B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3D9E6BEC-A6C6-4C67-822F-807089D52E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3D9E6BEC-A6C6-4C67-822F-807089D52E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D9E6BEC-A6C6-4C67-822F-807089D52E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
