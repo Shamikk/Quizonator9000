@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Quizonator.MVC"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Quizonator.MVC-c4c35a13-2e6e-45c5-99f3-347c3dc64c7e;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
